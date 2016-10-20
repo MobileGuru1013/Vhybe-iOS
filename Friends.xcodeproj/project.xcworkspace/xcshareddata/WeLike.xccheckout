@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9474967A-B995-4452-9BA7-1EB4CDDB9548</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeLike</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04ad2d75-7bef-401f-b717-795e32fee0c2</key>
+		<string>https://planet1107.svn.beanstalkapp.com/wli</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/WeLikeInk/WeLike.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04ad2d75-7bef-401f-b717-795e32fee0c2</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04ad2d75-7bef-401f-b717-795e32fee0c2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04ad2d75-7bef-401f-b717-795e32fee0c2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wli</string>
+		</dict>
+	</array>
+</dict>
+</plist>
